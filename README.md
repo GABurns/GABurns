@@ -18,8 +18,7 @@ You can find more about my professional journey on [LinkedIn](https://www.linked
 Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualizations for 
 [Exploristics](https://exploristics.com/) Social Media campaign. This resulted content with
 an **62 % increase in engagement** metrics from average Exploristics social media content.
-[Lunctime Learning](https://github.com/GABurns/Presentations): A repo containing the slide decks and any associated code for  
-[Exploristics](https://exploristics.com/) lunchtime learning sessions on a range of Data Science topics
+[Lunctime Learning](https://github.com/GABurns/Presentations): A repo containing the slide decks and any associated code for [Exploristics](https://exploristics.com/) lunchtime learning sessions on a range of Data Science topics.
 
 ## Contact Me
 **LinkedIn:** [DrGarethBurns](https://www.linkedin.com/in/drgarethburns/)\
