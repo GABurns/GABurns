@@ -19,7 +19,7 @@ Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualiza
 [Exploristics](https://exploristics.com/) Social Media campaign. This resulted content with
 an **62 % increase in engagement** metrics from average Exploristics social media content.
 
-## Contact
+## Contact Me
 **LinkedIn:** [DrGarethBurns](https://www.linkedin.com/in/drgarethburns/)\
 **Twitter:** [@GarethBurns4](https://twitter.com/GarethBurns4)
 
