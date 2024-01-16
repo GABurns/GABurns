@@ -11,7 +11,7 @@ You can find more about my professional journey on [LinkedIn](https://www.linked
 **Data Analysis:** Proficient in analyzing data, extracting insights, and making data-driven decisions.\
 **Data Visualization**: Experienced in visualising complex data to convery a story in a range of industries and demographics.\
 **Programming Languages:** Experienced in R, Shiny, Python and SQL for data manipulation and analysis.\
-**Software Development:** Skilled in creating robust applications and scripts for data processing.\
+**Software Development:** Skilled in creating robust applications and scripts for data processing.
 
 ## Projects
 Most of the projects I work on are private repos or historically for public sector organisations that prohited me from putting code online (don't ask!).
