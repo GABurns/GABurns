@@ -14,6 +14,8 @@ You can find more about my professional journey on [LinkedIn](https://www.linked
 **Software Development:** Skilled in creating robust applications and scripts for data processing.\
 
 ## Projects
+Most of the projects I work on are private repos or historically for public sector organisations that prohited me from putting code online (don't ask!).
+
 - [12 Plots of Christmas](https://github.com/GABurns/12PlotsChristmas):
 Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualizations for 
 [Exploristics](https://exploristics.com/) Social Media campaign. This resulted content with
