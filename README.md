@@ -7,13 +7,13 @@ Hey there! 👋 I'm Gareth Burns, a Senior Data Scientist at [Exploristics](http
 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/drgarethburns/).
 
 ## Key Skills
-**Simulation:** Senior Statistical Developer on [KerusCloud](https://exploristics.com/keruscloud-platform-overview/), an cloud-based clincial; trial simulation platform.\
-**Scientific Communication**: [Invited Speaker](https://youtu.be/pHLT5IfgfM0?si=xrZDdAdFqwzqXN_L_) at the Shiny In Production.\
-**Data Analysis:** Proficient in analyzing data, extracting insights, and making data-driven decisions.\
-**Data Visualization**: Experienced in visualising complex data to convery a story in a range of industries and demographics.\
-**Programming Languages:** Experienced in R, Shiny, Python and SQL for data manipulation and analysis.\
-**Software Development:** Skilled in creating robust applications and scripts for data processing.\
-**Technical Documetation**: Contribute to user-guides for commericial SAAS applications including [KerusCloud](https://help.keruscloud.com/) and [Data Model Builder](https://gaburns.quarto.pub/dmb/)
+🤖 **Simulation:** Senior Statistical Developer on [KerusCloud](https://exploristics.com/keruscloud-platform-overview/), an cloud-based clincial; trial simulation platform.\
+📢 **Scientific Communication**: [Invited Speaker](https://youtu.be/pHLT5IfgfM0?si=xrZDdAdFqwzqXN_L_) at the Shiny In Production.\
+🧮 **Data Analysis:** Proficient in analyzing data, extracting insights, and making data-driven decisions.\
+📊 **Data Visualization**: Experienced in visualising complex data to convery a story in a range of industries and demographics.\
+🐍 **Programming Languages:** Experienced in R, Shiny, Python and SQL for data manipulation and analysis.\
+💻 **Software Development:** Skilled in creating robust applications and scripts for data processing.\
+🗄️ **Technical Documetation**: Contribute to user-guides for commericial SAAS applications including [KerusCloud](https://help.keruscloud.com/) and [Data Model Builder](https://gaburns.quarto.pub/dmb/)
 
 ## Projects
 Most of the projects I work on are private repos or historically for public sector organisations that prohited me from putting code online (don't ask!).
