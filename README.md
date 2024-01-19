@@ -8,7 +8,7 @@ You can find more about my professional journey on [LinkedIn](https://www.linked
 
 ## Key Skills
 **Simulation:** Senior Statistical Developer on [KerusCloud](https://exploristics.com/keruscloud-platform-overview/), an cloud-based clincial; trial simulation platform.\
-**Scientific Communication**: [Invited Speaker](https://youtu.be/pHLT5IfgfM0?si=xrZDdAdFqwzqXN_L_ at the Shiny In Production. 
+**Scientific Communication**: [Invited Speaker](https://youtu.be/pHLT5IfgfM0?si=xrZDdAdFqwzqXN_L_) at the Shiny In Production.\
 **Data Analysis:** Proficient in analyzing data, extracting insights, and making data-driven decisions.\
 **Data Visualization**: Experienced in visualising complex data to convery a story in a range of industries and demographics.\
 **Programming Languages:** Experienced in R, Shiny, Python and SQL for data manipulation and analysis.\
