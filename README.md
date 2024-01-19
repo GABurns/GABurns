@@ -11,7 +11,8 @@ You can find more about my professional journey on [LinkedIn](https://www.linked
 **Data Analysis:** Proficient in analyzing data, extracting insights, and making data-driven decisions.\
 **Data Visualization**: Experienced in visualising complex data to convery a story in a range of industries and demographics.\
 **Programming Languages:** Experienced in R, Shiny, Python and SQL for data manipulation and analysis.\
-**Software Development:** Skilled in creating robust applications and scripts for data processing.
+**Software Development:** Skilled in creating robust applications and scripts for data processing.\
+**Technical Documetation**: Contribute to user-guides for commericial SAAS applications including [KerusCloud](https://help.keruscloud.com/) and [Data Model Builder](https://gaburns.quarto.pub/dmb/)
 
 ## Projects
 Most of the projects I work on are private repos or historically for public sector organisations that prohited me from putting code online (don't ask!).
@@ -21,7 +22,8 @@ Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualiza
 [Exploristics](https://exploristics.com/) Social Media campaign. This resulted content with
 an **62 % increase in engagement** metrics from average Exploristics social media content.
 - [Lunctime Learning](https://github.com/GABurns/Presentations): A repo containing the slide decks and any associated code for [Exploristics](https://exploristics.com/) lunchtime learning sessions on a range of Data Science topics.
-- [Data Viz](https://github.com/GABurns/DataViz): A collection of some misc. data visualizations I've done that may be of interest. 
+- [Data Viz](https://github.com/GABurns/DataViz): A collection of some misc. data visualizations I've done that may be of interest.
+
 
 ## Contact Me
 **LinkedIn:** [DrGarethBurns](https://www.linkedin.com/in/drgarethburns/)\
