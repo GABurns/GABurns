@@ -24,6 +24,7 @@ Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualiza
 an **62 % increase in engagement** metrics from average Exploristics social media content.
 - [Lunctime Learning](https://github.com/GABurns/Presentations): A repo containing the slide decks and any associated code for [Exploristics](https://exploristics.com/) lunchtime learning sessions on a range of Data Science topics.
 - [Data Viz](https://github.com/GABurns/DataViz): A collection of some misc. data visualizations I've done that may be of interest.
+- [Tidy Tuesday](https://github.com/GABurns/TidyTuesday): Timebound efforts to participate in #TidyTuesday dataviz challenages
 
 
 ## Contact Me
