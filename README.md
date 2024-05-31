@@ -4,6 +4,7 @@
 [![Linkedin: Gareth Burns](https://img.shields.io/badge/-drgarethburns-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drgarethburns/)](https://www.linkedin.com/in/drgarethburns/)
 
 Hey there! 👋 I'm Gareth Burns, a Senior Data Scientist at [Exploristics](https://exploristics.com/) and I'm passionate about all things Data. I have a background in machine learning, analytics, and software development.
+
 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/drgarethburns/).
 
 ## Key Skills
