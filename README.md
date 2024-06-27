@@ -22,7 +22,7 @@ Most of the projects I work on are private repos or historically for public sect
 - [12 Plots of Christmas](https://github.com/GABurns/12PlotsChristmas):
 Led a team of 5 Data Scientists to produce 12 bespoke Christmas themed visualizations for 
 [Exploristics](https://exploristics.com/) Social Media campaign. This resulted content with
-an **62 % increase in engagement** metrics from average Exploristics social media content.
+an **62 % increase in engagement** metrics from baseline social media content.
 - [Lunctime Learning](https://github.com/GABurns/Presentations): A repo containing the slide decks and any associated code for [Exploristics](https://exploristics.com/) lunchtime learning sessions on a range of Data Science topics.
 - [Data Viz](https://github.com/GABurns/DataViz): A collection of some misc. data visualizations I've done that may be of interest.
 - [Tidy Tuesday](https://github.com/GABurns/TidyTuesday): Timebound efforts to participate in #TidyTuesday dataviz challenages
